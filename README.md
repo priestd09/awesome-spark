@@ -21,6 +21,7 @@
 ## Tutorials
 
 ### Written
+* [Spark Tutorials - Sparktuts](http://sparktuts.com)
 * [Introducing Laravel Spark: A Deep Dive](https://mattstauffer.co/blog/introducing-laravel-spark-a-deep-dive) - Spark Alpha
 * [Laravel Spark Overview](https://laravel-news.com/2015/09/laravel-spark/) - Spark Alpha
 
